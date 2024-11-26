@@ -12,3 +12,5 @@ The script:
 3. Checks for versioned content
 4. Identifies and downloads potentially sensitive files
 5. Saves all results to a specified output directory
+
+https://learn.microsoft.com/en-us/rest/api/storageservices/list-blobs?tabs=microsoft-entra-id#uri-parameters
