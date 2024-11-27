@@ -2,6 +2,8 @@
 
 A PowerShell script for enumerating and downloading files from Azure Blob Storage containers, with a focus on discovering versioned and potentially sensitive content.
 
+Originally developed as a solution for the [Azure Blob Container to Initial Access](https://pwnedlabs.io/labs/azure-blob-container-to-initial-access) lab on PwnedLabs.
+
 ## Features
 
 - Enumerates Azure Blob Storage containers
